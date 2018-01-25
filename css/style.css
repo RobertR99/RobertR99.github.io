@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  font: arial;
+  margin: 10%;
+}
+.content{
+background-color: #c9ddff;
+padding: 1%;
+height: 95%;
+}
+footer{
+  background-color: #e3e7ed;
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
